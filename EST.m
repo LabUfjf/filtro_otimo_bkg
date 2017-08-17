@@ -1,0 +1,3 @@
+function [OUT]=EST(DADO,FILTRO)
+OUT=DADO*FILTRO;
+end
